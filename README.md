@@ -19,7 +19,7 @@ If you're using [lazy.nvim](https://github.com/folke/lazy.nvim), there's [no bui
 Use exactly like the original snacks.nvim, just point to this repo instead:
 ```lua
 {
-  "prg318/diet-snacks.nvim",
+  "prg318/snacks.nvim",
   -- same config as folke/snacks.nvim
 }
 ```
